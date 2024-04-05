@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoppesEA
 - 👀 I’m interested in ... Bioinformatics
-- 🌱 I’m currently learning ... Long-Read Amplicon Sequencing
-- 💞️ I’m looking to collaborate on ... Genome-editing projects
+- 🌱 I’m currently learning ... ChIP-Seq, ML
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
 <!---
